@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/76521428/136322672-09fb169c-555c-48fd-bdeb-5eb51aa40e94.png)
 
 <h1 align="center"> Vehicle Servicing Management </h1>
 Vehicle Service Management is a software application that aims to minimize the effort put in by companies to maintain their transactions and vehicle booking system. It manages all the transactions related to Customer profiling, Vehicle Service Bookings and Booking Details of the company. <br /> <br />
