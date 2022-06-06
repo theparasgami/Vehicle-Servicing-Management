@@ -16,20 +16,13 @@ In this software, anyone with a legal email ID can be added to the system as a c
 
 Here are the steps you need to do to run the project locally:
 
-1. **Fork** this repo in your profile.
-2. **Clone the forked repository** in your system, by using this command in your Git bash/Command Prompt. <br />
-   Make sure you replace `<your-username>` with your Github username
-
+1. **Clone the repository** in your system, by using this command in your Git bash/Command Prompt. <br />
    ```
    git clone https://github.com/<your-username>/Vehicle-Servicing-Management.git
-   ```
   
-3. Make a seperate **branch**, other than main, to make changes in this project.
-   ```
-   git branch <branch-name>
-   ```
-4. Start the XAMPP (Apache and MYSQL) server in your system and make a blank Database named `vsm`, using XAMPP.
-5. In the project directory, go to `server` folder and run the following command in terminal: 
+  ```
+2. Start the XAMPP (Apache and MYSQL) server in your system and make a blank Database named `vsm`, using XAMPP.
+3. In the project directory, go to `server` folder and run the following command in terminal: 
    ```
    npm install
    ``` 
@@ -37,4 +30,4 @@ Here are the steps you need to do to run the project locally:
    ```
    npm start
    ```
-6. This will start the project in `localhost` server at port `8000`. Write `localhost:8000` in your browser to see the UI of the project.   
+4. This will start the project in `localhost` server at port `8000`. Write `localhost:8000` in your browser to see the UI of the project.   
