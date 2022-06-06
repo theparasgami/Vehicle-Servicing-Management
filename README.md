@@ -18,9 +18,8 @@ Here are the steps you need to do to run the project locally:
 
 1. **Clone the repository** in your system, by using this command in your Git bash/Command Prompt. <br />
    ```
-   git clone https://github.com/<your-username>/Vehicle-Servicing-Management.git
-  
-  ```
+    git clone https://github.com/<your-username>/Vehicle-Servicing-Management.git
+    ```
 2. Start the XAMPP (Apache and MYSQL) server in your system and make a blank Database named `vsm`, using XAMPP.
 3. In the project directory, go to `server` folder and run the following command in terminal: 
    ```
